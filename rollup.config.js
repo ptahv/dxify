@@ -54,8 +54,8 @@ export default [{
     input: 'src/config.js',
     output: {
         file: 'dist/config.js',
-        // format: 'umd',
-        // name: 'default-config',
+        format: 'umd',
+        name: 'default-config',
         indent: false,
     },
     plugins: plugins.concat([
