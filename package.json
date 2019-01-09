@@ -1,6 +1,6 @@
 {
   "name": "dxify",
-  "version": "0.0.1-develop.2",
+  "version": "0.0.1-develop.3",
   "description": "A simple wrapper for Devextreme-components.",
   "main": "dist/dxify.min.js",
   "files": [
@@ -13,14 +13,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ptahv/roids.git"
+    "url": "git+https://github.com/ptahv/dxify.git"
   },
   "author": "Petri Tahvanainen",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ptahv/roids/issues"
+    "url": "https://github.com/ptahv/dxify/issues"
   },
-  "homepage": "https://github.com/ptahv/roids#readme",
+  "homepage": "https://github.com/ptahv/dxify#readme",
   "dependencies": {
     "@babel/polyfill": "^7.0.0"
   },
